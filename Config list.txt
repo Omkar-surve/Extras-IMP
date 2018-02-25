@@ -1,0 +1,15 @@
+XRv
+======================================
+https://www.cisco.com/c/en/us/support/routers/asr-9000-series-aggregation-services-routers/products-installation-and-configuration-guides-list.html
+
+
+CSR1000v
+======================================
+https://www.cisco.com/c/en/us/support/routers/cloud-services-router-1000v-series/products-installation-and-configuration-guides-list.html
+
+
+
+
+IOS 15.4S
+======================================
+https://www.cisco.com/c/en/us/support/ios-nx-os-software/ios-15-4s/products-installation-and-configuration-guides-list.html
